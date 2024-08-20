@@ -147,18 +147,14 @@ Estar excento del pago **no significa** que sea innecesario inscribirse. La insc
 
 El objetivo de este capítulo es **emitir facturas** por los servicios prestados, y poder **cobrar los montos** de las mismas. No incluye detalles generales sobre "cómo llenar una factura".
 
-### [2.1] Impresión de Facturas
+### [2.1] Facturación
 
-Luego de estar inscripto en el régimen del monotributo, puede uno dirigirse a una **imprenta habilitada** y solicitar la impresión de un talonario de facturas. Para eso se debe:
+La facturación está completamente digitalizada desde 2012 a través de la página de la AFIP o mediante software contable que integra con las APIs. Ya no está permitido facturar en talonarios de papel.
 
-* Llevar una [constancia de inscripción al monotributo](https://seti.afip.gob.ar/padron-puc-constancia-internet/ConsultaConstanciaAction.do)
-* Pedir un talonario de facturas tipo `C`, en el caso de facturar a clientes (o intermediarios) dentro del territorio nacional.
-* Pedir un talonario de facturas tipo `E`, en el caso de facturar a clientes en el exterior.
-* Indicar el comienzo de la numeración de los talonarios en cada caso. Si es la primera vez, comienzan en `000001`.
+#### Tipos de Factura
 
-### [2.2] Facturación a personas físicas o jurídicas dentro del territorio nacional argentino
-
-Debe utilizarse el talonario de facturas tipo `C`, y entregar el original (blanco) al cliente. Este tipo de factura también debe utilizarse en caso de que se cuente con un intermediario que gestione los pagos de forma local, por más que el cliente final se encuentre en el exterior.
+* Facturas tipo `C`, en el caso de facturar a clientes (o intermediarios) dentro del territorio nacional.
+* Facturas tipo `E`, en el caso de facturar a clientes en el exterior.
 
 #### "Con IVA?"
 

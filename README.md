@@ -41,7 +41,7 @@ La normativa legal es diferente, por eso se recomienda consultarlo con un contad
 
 ### Cuidado
 
-La mayoría del software necesario para los trámites detallados posteriormente es provisto por cada ente regulador (AFIP, ARBA, AGIP, etc), es de una calidad dudosa, está lleno de incompatibilidades, y **funciona de forma completa sólo bajo Windows de 32-bits e Internet Explorer**.
+La mayoría del software necesario para los trámites detallados posteriormente es provisto por cada ente regulador (AFIP, ARBA, AGIP, etc), es de una calidad dudosa, está lleno de incompatibilidades, y **funciona de forma completa sólo bajo Windows dependiendo de cada caso**.
 
 ## [0] Recomendaciones
 

@@ -164,6 +164,8 @@ Si el cliente, que generalmente no es monotributista, recibe una factura que *di
 
 La alternativa para este problema es pasarse al régimen de autónomos, donde esta guía carece de utilidad.
 
+Esto suele importar poco y nada para clientes del exterior, solo impacta en la facturación a personas físicas o jurídicas dentro del territorio nacional.
+
 ### [2.3] Facturación al exterior
 
 Debe utilizarse el talonario de facturas tipo `E`.

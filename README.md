@@ -178,10 +178,6 @@ Las facturas electrónicas, o impresas por uno mismo, o emitidas por cualquier s
 
 #### Preguntas Frecuentes
 
-##### Puedo imprimir facturas sin mi llevar constancia de CUIT?
-
-Cualquier imprenta habilitada corre riesgo de clausura si lo hace.
-
 ##### Las facturas tipo `E` deben tributar ingresos brutos?
 
 Actualmente, no. Al ser calificadas como *servicios de exportación*, están exentas, al menos por el momento.
@@ -189,10 +185,6 @@ Actualmente, no. Al ser calificadas como *servicios de exportación*, están exe
 Si se está inscripto en el régimen simplificado de la CABA, esto no afecta al monto fijo mensual, que hay que abonar aunque no haya existido facturación "nacional" durante ese período.
 
 Si se está inscripto en el convenio multilateral, esto no significa desentenderse de las declaraciones juradas mensuales, aunque vayan todas en cero.
-
-##### En el caso de transferencias desde el exterior, ¿tengo que dejar el original de la factura en el banco?
-
-La factura del talonario (tanto la original, como la copia de color) **no puede ser retenida** por la entidad financiera que hace de intermediario en la transacción. Puede requerirse que se muestre el original, pero entregando una fotocopia.
 
 ## [3] Declaraciones Juradas y Pago de Impuestos
 
@@ -245,7 +237,7 @@ El régimen del monotributo exige que se presente cuatrimestralmente una [declar
 
 ##### ¿Es obligatoria la recategorización del monotributo?
 
-Si, a menos que al hacer el cálculo la categoría siga siendo la misma.
+Si, a menos que al hacer el cálculo de la facturación de los últimos 12 meses corridos, la categoría siga siendo la misma que la actual.
 
 ##### ¿Que tipo de facturas se incluyen en el cálculo de los ingresos brutos anuales?
 
